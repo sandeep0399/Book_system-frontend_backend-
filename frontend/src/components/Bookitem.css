@@ -1,0 +1,50 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: left;
+    max-width: 500px;
+    width: 90%; 
+    color: black;
+}
+
+.modal-content h3 {
+    margin-bottom: 20px;
+}
+
+.btn-danger{
+    color:white ;
+    background-color:#dc3545 ;
+}
+.btn-warring{
+    color: white;
+    background-color: #ffc107;
+}
+
+.btn-success{
+    color: white;
+    background-color: #28a745;
+}
+
+.btn{
+ 
+    text-align: center; 
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+}

@@ -1,0 +1,87 @@
+.nav-home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    
+    
+
+}
+
+.search-box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px; 
+    margin-bottom: 20px;
+    gap: 10px;
+} 
+.search-bar{
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border: none;
+} 
+.btn-blue{
+    background-color: #007bff;
+    color: white;
+}
+.btn{
+ 
+    text-align: center; 
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+}
+.search-reasult{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+
+}
+.list-item{
+   width: 60vw;
+    display: flex; 
+    justify-content: space-between;
+    font-size: 20px;
+    gap: 40px;
+    margin-bottom: 5px
+}
+.btn-danger{
+    color:white ;
+    background-color:#dc3545 ;
+}
+.btn-warring{
+    color: white;
+    background-color: #ffc107;
+}
+.buttons-container{
+    display: flex;
+    gap: 20px;
+}
+.welocom-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.welocom-container h1{
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-size: 50px;
+}
+
+.home-section{
+    background-color:#FF3B49 ;
+    color: white;
+    margin-top: 10px;
+    height: 100vh;
+}
