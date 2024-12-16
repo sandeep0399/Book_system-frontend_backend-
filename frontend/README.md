@@ -46,7 +46,7 @@ go to the backend folder and run the following command in the teriminal
 
 for the routes : 
 I'll add postman documentation to the file pls go to that or i will give the link below for the postman documentaion  for testing
-[https://documenter.getpostman.com/view/40273751/2sAYHzG3SS](use ctrl+click to follow)
+[https://documenter.getpostman.com/view/40273751/2sAYHzG3SS]
 
 
 
